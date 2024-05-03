@@ -28,6 +28,8 @@ To train the model and choose among different datasets, please refer to the **Dr
 
 To inference, please refer to the **For Inference and Test.ipynb** in the last section **Test**
 
+To get the results of the final report, please refer to the please refer to the **Final Descriptive Notebook Report.ipynb**
+
 
 ## 4.Weights  <a name="Weights"></a>
 
